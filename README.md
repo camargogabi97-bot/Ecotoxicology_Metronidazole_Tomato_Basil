@@ -37,7 +37,7 @@ The data and files presented here support four main parts of the study:
 
 - The protocol used to perform the analysis.
 
-
+OBS: Due to file size limitations, the chromatograms, mass spectra, and analytical protocol have been compressed into a single ZIP archive. The folder contains all raw data supporting the identification of the detected compounds.
 
 ---
 
